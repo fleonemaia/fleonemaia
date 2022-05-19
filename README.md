@@ -2,7 +2,7 @@
 
 
 <p>
-</br> I'm Felippe, Data scientist and Developer from <b>Vitória, Brasil</b> <img src="https://www.flaticon.com/br/icone-gratis/bandeira-do-brasil_3909370" width="13"/>.
+  I'm Felippe, Data scientist and Developer from <b>Vitória, Brasil</b> <img src="https://www.flaticon.com/br/icone-gratis/bandeira-do-brasil_3909370" width="13"/>.
 </p>
 
 <h3>Things I code with</h3>
