@@ -1,38 +1,36 @@
-<h1>
-  Hi there!
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/vulcan-salute_1f596.png" width="30"/>
-</h1>
+<h1>Hi there! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/vulcan-salute_1f596.png" width="30"/></h1>
 
-
-<p>
-  I'm Felippe, Data scientist and Developer from <b>Vitória, Brazil</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/>.
-</p>
+<p> I'm Felippe, Data scientist and Developer from <b>Vitória, Brazil</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/>.</p>
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="python"         src="https://img.shields.io/badge/-Python-0078D4?style=flat-square&logo=python&logoColor=white" />
-  <img alt="pycharm"        src="https://img.shields.io/badge/-PyCharm-0078D4?&style=flat-square&logo=PyCharm&logoColor=white" />
-  <img alt="Docker"         src="https://img.shields.io/badge/-Docker-0078D4?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="googlesheets"   src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
-  <img alt="notepad++"      src="https://img.shields.io/badge/-Notepad++-34A853?style=flat-square&logo=notepad%2B%2B&logoColor=black" />
-  <img alt="csharp"         src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="dotnet"         src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="visualstudio"   src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
-  <img alt="vscode"         src="https://img.shields.io/badge/-vscode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="sqlserver"      src="https://img.shields.io/badge/-SQL_Server-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-003545?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="mongodb"        src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="git"            src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="githubactions"  src="https://img.shields.io/badge/-Github_Actions-F05032?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="colab"          src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" />
+  <img alt="python"         src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=blue" />
+  <img alt="numpy"          src="https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy&logoColor=blue" />
+  <img alt="pandas"         src="https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=blue" />
+  <img alt="scipy"          src="https://img.shields.io/badge/-Scipy-black?style=flat&logo=scipy&logoColor=blue" />
+  <img alt="scikitlearn"    src="https://img.shields.io/badge/-scikitlearn-black?style=flat&logo=scikitlearn&logoColor=blue" />
+  <img alt="csharp"         src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoColor=purple" />
+  <img alt="dotnet"         src="https://img.shields.io/badge/-.NET-black?style=flat&logo=.net&logoColor=purple" />
+  <img alt="visualstudio"   src="https://img.shields.io/badge/-Visual_Studio-black?style=flat&logo=visualstudio&logoColor=purple" />
+  <img alt="git"            src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=red" />
+  <img alt="gitlfs"         src="https://img.shields.io/badge/-GitLFS-black?style=flat&logo=gitlfs&logoColor=red" />
+  <img alt="github"         src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white" />
+  <img alt="gitkraken"      src="https://img.shields.io/badge/-Gitkraken-black?style=flat&logo=gitkraken&logoColor=bluegreen" />
+  <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=003545" />
+  <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&logoColor=003545" />
+  <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=003545" />
+  <img alt="mongodb"        src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=003545" />
+  <img alt="Docker"         src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0078D4" />
+  <img alt="Mathematica"    src="https://img.shields.io/badge/-Mathematica-black?style=flat&logo=wolframmathematica&logoColor=red" />
+  <img alt="googlesheets"   src="https://img.shields.io/badge/-Google_Sheets-black?style=flat&logo=google-sheets&logoColor=34A853" />
+  <img alt="anaconda"       src="https://img.shields.io/badge/-Anaconda-black?style=flat&logo=anaconda&logoColor=34A853" />
+  <img alt="jupyter"        src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter&logoColor=F9AB00" />
+  <img alt="colab"          src="https://img.shields.io/badge/-Colab-black?style=flat&logo=googlecolab&logoColor=F9AB00" />
+  <img alt="vscode"         src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=0078D4" />
 </p>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/fleonemaia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://github.com/fleonemaia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="fleonemaia@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://contate.me/fleonemaia" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fleonemaia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
+  <a href="kaggle.com/fleonemaia" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
