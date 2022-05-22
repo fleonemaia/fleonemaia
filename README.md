@@ -19,7 +19,6 @@
   <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=003545" />
   <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&logoColor=003545" />
   <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=003545" />
-  <img alt="mongodb"        src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=003545" />
   <img alt="Docker"         src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0078D4" />
   <img alt="Mathematica"    src="https://img.shields.io/badge/-Mathematica-black?style=flat&logo=wolframmathematica&logoColor=red" />
   <img alt="googlesheets"   src="https://img.shields.io/badge/-Google_Sheets-black?style=flat&logo=google-sheets&logoColor=34A853" />
@@ -27,10 +26,11 @@
   <img alt="jupyter"        src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter&logoColor=F9AB00" />
   <img alt="colab"          src="https://img.shields.io/badge/-Colab-black?style=flat&logo=googlecolab&logoColor=F9AB00" />
   <img alt="vscode"         src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=0078D4" />
+  <img alt="latex"          src="https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex&logoColor=003545" />
+  <img alt="notion"         src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/fleonemaia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-  <a href="kaggle.com/fleonemaia" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
