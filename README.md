@@ -32,5 +32,6 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/fleonemaia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/fleonemaia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:fleonemaia@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
