@@ -15,11 +15,12 @@
   <img alt="git"            src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=red" />
   <img alt="gitlfs"         src="https://img.shields.io/badge/-GitLFS-black?style=flat&logo=gitlfs&logoColor=red" />
   <img alt="github"         src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white" />
+  <img alt="bitbucket"      src="https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket&logoColor=blue" />
   <img alt="gitkraken"      src="https://img.shields.io/badge/-Gitkraken-black?style=flat&logo=gitkraken&logoColor=bluegreen" />
-  <img alt="sqlserver"      src="https://img.shields.io/badge/-SQLServer-black?style=flat&logo=microsoftsqlserver&logoColor=003545" />
-  <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=003545" />
-  <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&logoColor=003545" />
-  <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=003545" />
+  <img alt="sqlserver"      src="https://img.shields.io/badge/-SQLServer-black?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white" />
+  <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&logoColor=white" />
+  <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Docker"         src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=0078D4" />
   <img alt="Mathematica"    src="https://img.shields.io/badge/-Mathematica-black?style=flat&logo=wolframmathematica&logoColor=red" />
   <img alt="googlesheets"   src="https://img.shields.io/badge/-Google_Sheets-black?style=flat&logo=google-sheets&logoColor=34A853" />
@@ -27,7 +28,7 @@
   <img alt="jupyter"        src="https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter&logoColor=F9AB00" />
   <img alt="colab"          src="https://img.shields.io/badge/-Colab-black?style=flat&logo=googlecolab&logoColor=F9AB00" />
   <img alt="vscode"         src="https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=0078D4" />
-  <img alt="latex"          src="https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex&logoColor=003545" />
+  <img alt="latex"          src="https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex&logoColor=white" />
   <img alt="notion"         src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white" />
 </p>
 
