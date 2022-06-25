@@ -16,6 +16,7 @@
   <img alt="gitlfs"         src="https://img.shields.io/badge/-GitLFS-black?style=flat&logo=gitlfs&logoColor=red" />
   <img alt="github"         src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white" />
   <img alt="gitkraken"      src="https://img.shields.io/badge/-Gitkraken-black?style=flat&logo=gitkraken&logoColor=bluegreen" />
+  <img alt="sqlserver"      src="https://img.shields.io/badge/-SQLServer-black?style=flat&logo=microsoftsqlserver&logoColor=003545" />
   <img alt="mysql"          src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=003545" />
   <img alt="mariadb"        src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb&logoColor=003545" />
   <img alt="postgresql"     src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=003545" />
